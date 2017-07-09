@@ -24,4 +24,10 @@ class Test{
 
     }
 
+
+    public function third(){
+
+        return 'third';
+    }
+
 }
