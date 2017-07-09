@@ -1,0 +1,21 @@
+{
+    "name": "woshixieming/test-composer",
+    "description": "test composer for packagist",
+    "homepage": "https://github.com/woshixieming",
+    "license": "Apache-2.0",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "XieMing",
+            "email": "tianyuan4021@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "name\\space\\": "src/"
+        }
+    }
+}
