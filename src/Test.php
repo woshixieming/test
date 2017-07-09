@@ -17,4 +17,11 @@ class Test{
 
     }
 
+    public function second_function(){
+
+
+        return 'second';
+
+    }
+
 }
