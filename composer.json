@@ -3,7 +3,7 @@
     "description": "test composer for packagist",
     "homepage": "https://github.com/woshixieming",
     "license": "Apache-2.0",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "XieMing",
